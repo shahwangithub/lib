@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: duplicity
+Version: 0.7.17
+Summary: Encrypted backup using rsync algorithm
+Home-page: http://duplicity.nongnu.org/index.html
+Author: Ben Escoto <ben@emerose.org>
+Author-email: bescoto@stanford.edu
+Maintainer: Kenneth Loafman <kenneth@loafman.com>
+Maintainer-email: kenneth@loafman.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

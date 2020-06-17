@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: antlr
+Version: 2.7.5RC1
+Summary: Python runtime support for ANTLR-generated parsers
+Home-page: http://www.antlr.org/
+Author: Wolfgang Haefelinger / Marq Kole
+Author-email: ora.et.labora@web.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

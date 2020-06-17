@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: uTidylib
+Version: 0.3
+Summary: Wrapper for HTML Tidy at http://tidy.sourceforge.net
+Home-page: https://cihar.com/software/utidylib/
+Author: Michal Čihař
+Author-email: michal@cihar.com
+License: MIT
+Description: A wrapper for the relocatable version of HTML Tidy (see
+        http://tidy.sourceforge.net for details).  This allows you to
+        tidy HTML files through a Pythonic interface.
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Internet
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Web Environment
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
